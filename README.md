@@ -1,3 +1,4 @@
+<img width="577" height="577" alt="770aca9f45445002cf624399e1f2c389" src="https://github.com/user-attachments/assets/1e0f126e-e014-4d23-ac03-1cb67899f2e6" />
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,0&text=ITZ-VOLD&fontColor=ffffff&fontSize=60&animation=fadeIn" width="100%" /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Building+The+Future;AI+Engineer+in+Progress;Machine+Learning+Explorer;Physics+and+Space+Enthusiast;Never+Stop+Learning" /><br><br>
 
 <img src="https://media1.tenor.com/m/8MjlL6i8KfAAAAAC/anime-night.gif" width="700"/></div>---
