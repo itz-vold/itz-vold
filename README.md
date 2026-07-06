@@ -1,6 +1,6 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,0&text=ITZ-VOLD&fontColor=ffffff&fontSize=60&animation=fadeIn" width="100%" /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Building+The+Future;AI+Engineer+in+Progress;Machine+Learning+Explorer;Physics+and+Space+Enthusiast;Never+Stop+Learning" /><br><br>
 
-<img src="https://media1.tenor.com/m/8MjlL6i8KfAAAAAC/anime-night.gif" width="700"/></div>---
+<img src="https://media1.tenor.com/m/8MjlL6i8KfAAAAAC/anime-night.gif" width="700"/></div>
 
 🧠 About Me
 
@@ -13,7 +13,7 @@ Dream      : Build something that changes the world
 
 «"Everything you see today was once someone's imagination."»
 
----
+
 
 🌌 Current Focus
 
@@ -23,16 +23,16 @@ Dream      : Build something that changes the world
 - 💻 Software Engineering
 - 📚 Continuous Self Improvement
 
----
+
 
 ⚔️ Tech Arsenal
 
-<div align="center"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,c,rust,go,java,js,ts,html,css,php,bash,mysql,mongodb,git,linux&theme=dark" /></div>---
+<div align="center"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,c,rust,go,java,js,ts,html,css,php,bash,mysql,mongodb,git,linux&theme=dark" /></div>
 
 
 🐍 Contribution Snake
 
-<div align="center"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" /></div>---
+<div align="center"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" /></div>
 
 🌐 Connect
 
@@ -42,7 +42,7 @@ Dream      : Build something that changes the world
 <img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=red"/>
 </a><a href="mailto:arshya9019@gmail.com">
 <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=red"/>
-</a></div>---
+</a></div>
 
 <div align="center">⚫ "The future belongs to those who build it." 🔴
 
@@ -62,7 +62,7 @@ Dream      : Build something that changes the world
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=itz-vold&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
+
 [![](https://komarev.com/ghpvc/?username=itz-vold&icon=6&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
