@@ -1,23 +1,15 @@
-<div align="center">⚫🔴 ITZ-VOLD
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,0&text=ITZ-VOLD&fontColor=ffffff&fontSize=60&animation=fadeIn" width="100%" /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Building+The+Future;AI+Engineer+in+Progress;Machine+Learning+Explorer;Physics+and+Space+Enthusiast;Never+Stop+Learning" /><br><br>
 
-██╗████████╗███████╗      ██╗   ██╗ ██████╗ ██╗     ██████╗
-██║╚══██╔══╝╚══███╔╝      ██║   ██║██╔═══██╗██║     ██╔══██╗
-██║   ██║     ███╔╝       ██║   ██║██║   ██║██║     ██║  ██║
-██║   ██║    ███╔╝        ╚██╗ ██╔╝██║   ██║██║     ██║  ██║
-██║   ██║   ███████╗       ╚████╔╝ ╚██████╔╝███████╗██████╔╝
-╚═╝   ╚═╝   ╚══════╝        ╚═══╝   ╚═════╝ ╚══════╝╚═════╝
-
-Building the Future Through AI, Science and Imagination
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=AI+Engineer+in+Progress;Machine+Learning+Explorer;Physics+and+Space+Enthusiast;Building+Myself+Every+Day" /></div>---
+<img src="https://media1.tenor.com/m/8MjlL6i8KfAAAAAC/anime-night.gif" width="700"/></div>---
 
 🧠 About Me
 
+Name       : ITZ-VOLD
 Age        : 16
 Mission    : Become the best version of myself
 Interests  : AI • Physics • Mathematics • Space • Technology
-Status     : Learning. Building. Improving.
-Dream      : Build something that changes the world.
+Status     : Learning • Building • Improving
+Dream      : Build something that changes the world
 
 «"Everything you see today was once someone's imagination."»
 
@@ -35,21 +27,35 @@ Dream      : Build something that changes the world.
 
 ⚔️ Tech Arsenal
 
-<p align="center"><img src="https://skillicons.dev/icons?i=python,cpp,c,java,go,rust,js,ts,html,css,php,bash,mysql,mongodb,git,linux,tensorflow,pytorch&theme=dark" /></p>---
+<div align="center"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,c,rust,go,java,js,ts,html,css,php,bash,mysql,mongodb,git,linux&theme=dark" /></div>---
 
 📊 GitHub Statistics
 
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=itz-vold&show_icons=true&theme=shadow_red&hide_border=true&bg_color=000000"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-vold&layout=compact&theme=shadow_red&hide_border=true&bg_color=000000"/></p><p align="center"><img src="https://streak-stats.demolab.com?user=itz-vold&theme=shadow_red&hide_border=true&background=000000"/></p>---
+<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=itz-vold&show_icons=true&theme=shadow_red&hide_border=true&bg_color=000000"/><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-vold&layout=compact&theme=shadow_red&hide_border=true&bg_color=000000"/><br><br>
+
+<img src="https://streak-stats.demolab.com?user=itz-vold&theme=shadow_red&hide_border=true&background=000000"/></div>---
 
 🏆 Achievements
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=itz-vold&theme=radical&no-frame=true&no-bg=true&margin-w=10"/></p>---
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=itz-vold&theme=radical&no-frame=true&no-bg=true&margin-w=10"/></div>---
+
+🐍 Contribution Snake
+
+<div align="center"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" /></div>---
 
 🌐 Connect
 
-<p align="center"><a href="https://instagram.com/itz_vold">
+<div align="center"><a href="https://instagram.com/itz_vold">
 <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=red"/>
 </a><a href="https://pinterest.com/starvelem">
+<img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=red"/>
+</a><a href="mailto:arshya9019@gmail.com">
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=red"/>
+</a></div>---
+
+<div align="center">⚫ "The future belongs to those who build it." 🔴
+
+<img src="https://komarev.com/ghpvc/?username=itz-vold&style=for-the-badge&color=red"/></div>velem">
 <img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=red"/>
 </a><a href="mailto:arshya9019@gmail.com">
 <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=red"/>
